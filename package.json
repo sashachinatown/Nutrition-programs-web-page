@@ -1,0 +1,22 @@
+{
+  "name": "nutrition-programs-web-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sashachinatown/Nutrition-programs-web-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sashachinatown/Nutrition-programs-web-page/issues"
+  },
+  "homepage": "https://github.com/sashachinatown/Nutrition-programs-web-page#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
